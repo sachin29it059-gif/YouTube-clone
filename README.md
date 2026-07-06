@@ -26,6 +26,9 @@ https://github.com/yourusername/youtube-homepage-clone
 ## 📁 Folder Structure
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/911932bc-a830-4cc0-a5b5-d1ee2651d0d2" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-06 235147" src="https://github.com/user-attachments/assets/fd71b673-d221-4a8c-91f1-a5dc543c242d" />
+
+
 
 ## 📸 Screenshots
 
