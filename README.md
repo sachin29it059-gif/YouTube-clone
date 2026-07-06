@@ -59,7 +59,7 @@ _Add project screenshots here._
 
 Sachin Patel
 
-Linkedin : https://www.linkedin.com/in/sachin-patel-7960a5380/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNeBRsTrASvOks6nB3qAqMg%3D%3D
+Linkedln : https://www.linkedin.com/in/sachin-patel-7960a5380/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNeBRsTrASvOks6nB3qAqMg%3D%3D
 
 GitHub: https://github.com/sachin29it059-gig
 
